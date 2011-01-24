@@ -1,0 +1,12 @@
+<tj:template xmlns:tj="tj">
+	<tj:placeholder id="p2" />
+	<![CDATA[
+	<abc>	
+	<content>
+	]]>
+	<![CDATA[
+		<again>
+	]]>
+	<tj:placeholder id="p1" />
+	
+</tj:template>
